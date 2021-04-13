@@ -1,0 +1,48 @@
+{
+	"items":[
+		{
+			"authors":[
+				"Andrew Hunt",
+				"David Thomas"
+			],
+			"condition": "DAMAGED",
+			"date": 1999,
+			"isbn": "978-0-201-61622-4",
+			"name": "The Pragmatic Programmer",
+			"uuid": "768898ab-b116-4ab6-8eb3-0536a1be24bf"
+		},
+		{
+			"authors":[
+				"Steve McConnell"
+			],
+			"condition": "NEW",
+			"date": 2004,
+			"isbn": "978-0-7356-1967-8",
+			"name": "Code Complete",
+			"uuid": "6285954e-f87f-43a4-a4be-6ed267915ff7"
+		},
+		{
+			"authors":[
+				"Thomas H. Cormen",
+				"Charles E. Leiserson",
+				"Ronald L. Rivest"
+				"Clifford Stein"
+			],
+			"condition": "NEW",
+			"date": 1989,
+			"isbn": "978-0-262-03384-8",
+			"name": "Introduction to Algorithms",
+			"uuid": "dd085cfc-033f-426f-b876-35f69f0f0e7d"
+		},
+		{
+			"authors":[
+				"Sam",
+			],
+			"condition": "ok naman",
+			"date": 2017,
+			"isbn": "12345",
+			"name": "The Most Beautiful",
+			"uuid": "10000000"
+		}
+	]
+}
